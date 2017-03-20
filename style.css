@@ -1,0 +1,37 @@
+body {
+    background-color: gray;
+}
+
+#will {
+    border-style: solid;
+    border-width: 20px;
+    border-color: #249875;
+    padding: 40px;
+    border-radius:30px;
+    margin-left: 30%;
+}
+
+#chris {
+    width:200px;
+    height:220px;
+    padding:10px;
+    border:10px groove yellowgreen;
+    margin-left: 30%;
+}
+
+#johny {
+    width:180px;
+    height:200px;
+    padding:10px;
+    border-width:6px;
+    border-color:yellowgreen;
+    border-style:dotted dashed solid double;
+    margin-left: 39%;
+}
+
+#barack {
+    width:200px;
+    height:100px;
+    padding:10px;
+    border:1px dashed yellowgreen;
+}
